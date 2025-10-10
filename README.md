@@ -1,10 +1,11 @@
-# Desarrollador Full-Stack (Web/Móvil)
+[🇪🇸 Versión en Español](README.es.md)
 
-Ingeniero Físico y desarrollador full-stack. Construyo **APIs REST** y **apps web/móviles**
-con **FastAPI + Angular/Flutter**, **PostgreSQL** y **AWS** (EC2/RDS/S3), con **Docker** y **CI/CD**.
-Especialidad en **operación en campo** (offline→online), **trazabilidad** (auditoría/PDFs) y **seguridad** (JWT/OAuth2).
+# Full-Stack Developer (Web/Mobile)
 
-**Contacto:** agraciamartelo@gmail.com · Medellín, Colombia · [LinkedIn](https://www.linkedin.com/in/alberto-gracia)
+Engineering Physicist and full-stack developer. I build **REST APIs** and **web/mobile apps** with **FastAPI + Angular/Flutter**, **PostgreSQL**, and **AWS** (EC2/RDS/S3), using **Docker** and **CI/CD**. 
+Focus on **offline→online reliability**, **security**, and **traceability**.
+
+**Contact:** agraciamartelo@gmail.com · Medellín, Colombia · [LinkedIn](https://www.linkedin.com/in/alberto-gracia)
 
 ---
 
@@ -32,7 +33,7 @@ Especialidad en **operación en campo** (offline→online), **trazabilidad** (au
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
-## Calidad / Observabilidad
+## Quality & Observability
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
