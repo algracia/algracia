@@ -1,4 +1,4 @@
-# Alberto Gracia — Desarrollador Full-Stack (Web/Móvil)
+# Desarrollador Full-Stack (Web/Móvil)
 
 Ingeniero Físico y desarrollador full-stack. Construyo **APIs REST** y **apps web/móviles**
 con **FastAPI + Angular/Flutter**, **PostgreSQL** y **AWS** (EC2/RDS/S3), con **Docker** y **CI/CD**.
