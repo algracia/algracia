@@ -8,7 +8,7 @@ I design and build **robust systems that connect hardware and software**, from *
 Focus on **edge–cloud integration**, **traceability**, and **offline→online reliability**.
 
 📫 **Contact:** agraciamartelo@gmail.com · Medellín, Colombia  
-🔗 [LinkedIn](https://www.linkedin.com/in/alberto-gracia) · [GitHub](https://github.com/algracia)
+🔗 [LinkedIn](https://www.linkedin.com/in/alberto-gracia)
 
 ---
 
