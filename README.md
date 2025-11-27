@@ -104,7 +104,7 @@ Demo videos:
 |---------|-------|
 | Spanish | Native |
 | English | C1 |
-| German  | B1 |
+| German  | B2 |
 
 ---
 
