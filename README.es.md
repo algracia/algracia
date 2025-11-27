@@ -104,7 +104,7 @@ Videos de demostración:
 |----------|-------|
 | Español  | Nativo |
 | Inglés   | C1 |
-| Alemán   | B1 |
+| Alemán   | B2 |
 
 ---
 
