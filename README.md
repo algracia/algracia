@@ -1,114 +1,117 @@
 [🇪🇸 Versión en Español](README.es.md)
 
-# Backend Software Engineer (Python · FastAPI · AWS)
+# Alberto Gracia Martelo
 
-Engineering Physicist and freelance **backend & systems engineer**.  
-I design and build **robust backend services and data workflows** in Python, with a strong focus on **REST APIs, PostgreSQL and AWS (EC2/RDS/S3)**. In several projects I have connected these backends with **mobile apps for field operations (offline→online)** and, when needed, with **embedded devices (STM32/ESP32)**.
+**Prototype Engineer | Embedded Systems, Firmware, CAD & PCB Prototyping**
 
-Primary focus on **backend reliability, data integrity and traceability**.  
-Secondary expertise in **embedded/edge systems** when hardware integration is required.
+Engineering Physicist focused on applied engineering: mechanical CAD, electromechanical prototyping, embedded firmware, and hardware/software integration for robotics and mechatronics-oriented systems.
 
-Contact: **agraciamartelo@gmail.com · Medellín, Colombia**  
-LinkedIn: [linkedin.com/in/alberto-gracia](https://www.linkedin.com/in/alberto-gracia)
+My work is centered on turning concepts into functional prototypes through CAD design, PCB development, hardware validation, firmware implementation, and structured technical documentation.
 
----
+## Current Technical Direction
 
-## Core Expertise
+I am currently building my public profile around:
 
-- **Backend & APIs (Primary)**  
-  Python (FastAPI/Flask), REST API design, JWT/OAuth2, RBAC, OpenAPI/Swagger, async SQLAlchemy, pagination, validation, error handling.
+- Mechanical CAD for prototyping and manufacturable documentation
+- Embedded systems and firmware development (STM32 / ESP32)
+- PCB design and power electronics prototyping
+- Hardware validation and troubleshooting with lab instrumentation
+- End-to-end prototype development for mechatronics and applied engineering projects
 
-- **Cloud & DevOps (Primary)**  
-  AWS (EC2, RDS PostgreSQL, S3, SES), Docker, Git, GitHub Actions (CI/CD), Terraform, environment configuration, logging and basic monitoring.
+## Selected Work
 
-- **Data & Observability (Primary)**  
-  PostgreSQL, schema design, Alembic migrations, query optimization basics, structured logs, metrics, audit trails.
+### ChessProject — Autonomous Chessboard
+STM32-based electromechanical chessboard with XY gantry motion, stepper control, servo actuation, endstops, UART communication, and Python orchestration using Stockfish and python-chess.
 
-- **Embedded & Edge Systems (Secondary)**  
-  STM32, ESP32, C/C++, UART/SPI/I2C, timers/PWM (steppers/servos), basic OTA and watchdog patterns, edge–cloud protocols.
+- Role: Embedded/Firmware author
+- Scope: firmware, hardware integration, interconnect PCB, motion logic, documentation
+- Repository: [ChessProject-Autonomous-Chessboard-STM32-XY-Motion-](https://github.com/algracia/ChessProject-Autonomous-Chessboard-STM32-XY-Motion-)
 
-- **Frontend & Mobile (Complementary)**  
-  Angular (TypeScript) and Flutter (Dart) for mobile/web clients consuming REST APIs, with offline storage and sync flows.
+### Resonant ZVS Induction Heating Inverter — Power PCB
+Two-layer high-current power PCB designed for a resonant ZVS inverter, including layout decisions supported by LTspice transient simulation, prototype assembly, soldering, and initial functional validation.
 
----
+This project is being documented as a technical case study on my portfolio website rather than as a source-code repository.
 
-## Featured Project — Autonomous Chessboard
+- Case study: [Coming soon on portfolio website](https://YOUR-PORTFOLIO-LINK)
 
-**ChessProject** — STM32-based robotic chessboard with real-time AI integration  
+### CAD & Mechanical Prototype Work
+Selected CAD assemblies, manufacturable drawings, exploded views, BOM-oriented documentation, and prototype-focused mechanical design work.
 
-Electromechanical system that executes chess games on a physical board. A CNC-style XY gantry driven by steppers and a servo-lift magnet picks and places pieces. The STM32 firmware handles motion control and safety, while a Python backend orchestrates game logic and telemetry.
+These projects are being published as curated visual/technical case studies on my personal portfolio website.
 
-**Tech stack**
+- Case studies: [Coming soon on portfolio website](https://YOUR-PORTFOLIO-LINK)
 
-- Firmware: STM32/HAL (C), timers/PWM, endstops, UART protocol  
-- Backend: Flask (Python), Stockfish, python-chess, Docker  
-- Tooling: Eagle PCB, Linux, basic logging/telemetry
+## Technical Stack
 
-**Highlights**
+### Embedded / Electronics
+- STM32
+- ESP32
+- C / C++
+- STM32 HAL
+- Timers / PWM
+- UART / USART
+- SPI / I2C
+- Sensors, actuators, endstops
+- JTAG / SWD
 
-- Translation of AI/online moves into physical motion on the board  
-- Safe homing, limit handling and error recovery  
-- Documented bring-up guide and reproducible hardware diagrams
+### CAD / PCB / Prototyping
+- Autodesk Inventor
+- Fusion 360
+- Eagle / Fusion 360 Electronics
+- Schematic capture and PCB routing
+- Power polygons and via stitching
+- 3D printing for prototyping
+- BOM preparation
+- Technical drawings and integration documentation
 
-**Next steps**
+### Simulation / Validation / Tooling
+- LTspice
+- Oscilloscope
+- Multimeter
+- Bench power supply
+- Logic analyzer
+- Linux
+- Git
+- Python
 
-- Add velocity/acceleration profiles and jitter fine-tuning  
-- Standardize telemetry with ROS2 (TF2, colcon)  
-- Mechanical refinements (stiffness, cabling, enclosure)
+## Engineering Approach
 
-Demo videos:
+I prioritize technical documentation as part of the engineering deliverable, including:
 
-- [Video 1](https://drive.google.com/file/d/1ilU88anA28Sm5uKsdmvKJDmgogQCD1F5/view)  
-- [Video 2](https://drive.google.com/file/d/19l9fdWrFyc15zySGSjjqOn4_oBJ1EvTn/view)
+- diagrams
+- manufacturable drawings
+- BOMs
+- integration notes
+- bring-up guides
+- validation observations and test evidence
 
----
+## Additional Experience
 
-## Tech Stack
+Beyond personal engineering projects, I have contributed to:
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-### DevOps / Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure-devops&logoColor=white)
-
-### Quality & APIs
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-
----
+- technical evaluation and viability assessment of wearable TAG & HUB systems
+- hardware review, test planning, diagnostics, and improvement proposals for telemetry-oriented MVPs
+- academic support in analog electronics, digital electronics, oscillations, and waves, including prototype-oriented lab assistance
 
 ## Languages
 
-| Language | Level |
-|---------|-------|
-| Spanish | Native |
-| English | C1 |
-| German  | B2 |
+- Spanish — Native
+- English — C1
+- German — B1/B2
 
----
+## Links
 
-## About Me
+- Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
+- LinkedIn: [linkedin.com/in/alberto-gracia](https://www.linkedin.com/in/alberto-gracia)
+- GitHub: [github.com/algracia](https://github.com/algracia)
 
-Engineering Physicist with a multidisciplinary background, combining **backend development, cloud infrastructure and embedded systems**.  
-Currently focused on **backend roles (Python, FastAPI, AWS, PostgreSQL, CI/CD)**, while keeping a strong interest in embedded and robotics for projects that require tight hardware–software integration.
+## Notes
+
+This profile is being actively curated to reflect my transition toward roles in:
+
+- prototype engineering
+- embedded systems
+- firmware
+- CAD for product development
+- PCB prototyping
+- mechatronics-oriented engineering
