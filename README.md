@@ -8,16 +8,6 @@ Engineering Physicist focused on applied engineering: mechanical CAD, electromec
 
 My work is centered on turning concepts into functional prototypes through CAD design, PCB development, hardware validation, firmware implementation, and structured technical documentation.
 
-## Current Technical Direction
-
-I am currently building my public profile around:
-
-- Mechanical CAD for prototyping and manufacturable documentation
-- Embedded systems and firmware development (STM32 / ESP32)
-- PCB design and power electronics prototyping
-- Hardware validation and troubleshooting with lab instrumentation
-- End-to-end prototype development for mechatronics and applied engineering projects
-
 ## Selected Work
 
 ### ChessProject — Autonomous Chessboard
@@ -87,7 +77,7 @@ I prioritize technical documentation as part of the engineering deliverable, inc
 
 ## Additional Experience
 
-Beyond personal engineering projects, I have contributed to:
+Beyond freelance and personal engineering projects, I have contributed to:
 
 - technical evaluation and viability assessment of wearable TAG & HUB systems
 - hardware review, test planning, diagnostics, and improvement proposals for telemetry-oriented MVPs
@@ -96,22 +86,10 @@ Beyond personal engineering projects, I have contributed to:
 ## Languages
 
 - Spanish — Native
-- English — C1
-- German — B1/B2
+- English — C1 (TOEFL iBT)
+- German — B1
 
 ## Links
 
 - Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
 - LinkedIn: [linkedin.com/in/alberto-gracia](https://www.linkedin.com/in/alberto-gracia)
-- GitHub: [github.com/algracia](https://github.com/algracia)
-
-## Notes
-
-This profile is being actively curated to reflect my transition toward roles in:
-
-- prototype engineering
-- embedded systems
-- firmware
-- CAD for product development
-- PCB prototyping
-- mechatronics-oriented engineering
